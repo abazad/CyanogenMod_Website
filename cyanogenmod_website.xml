@@ -3,5 +3,5 @@
   <!-- getcm-translations repositories. -->
   <project path="website/getcm-translations" name="CyanogenMod/getcm-translations"  revision="master"/>
   <!-- CMAccountWebsite repositories. -->
-  <project path="website/CMAccount_Website" name="CyanogenMod/CMAccountWebsite"  revision="master"/>
+  <project path="website/CMAccountWebsite" name="CyanogenMod/CMAccountWebsite"  revision="master"/>
 </manifest>
